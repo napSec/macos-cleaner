@@ -12,14 +12,15 @@ Usage
 
 To use the script, follow these steps:
 
-Clone the repository to your local machine using Git.
-<p dir="auto"><code>$ git clone https://github.com/exampleuser/gitup-find-duplicates.git </code></p>
-<p data-sourcepos="19:1-19:33" dir="auto"><big><code><code>Change into the cloned directory.</code></code></big></p>
-<p data-sourcepos="21:3-21:22" dir="auto">$ cd find-duplicates</p>
-<p data-sourcepos="23:2-23:28" dir="auto"><big><code><code>Make the script executable.</code></code></big></p>
-<p data-sourcepos="25:3-25:31" dir="auto">$ chmod +x find_duplicates.sh</p>
-<p data-sourcepos="27:1-27:52" dir="auto"><big><code><code>Run the script and select the directories to search.</code></code></big></p>
-<p data-sourcepos="29:3-29:24" dir="auto">$ ./find_duplicates.sh</p>
+Clone the repository to your local machine using Git
+
+<p><code>$ git clone https://github.com/napSec/macos-cleaner.git </code></p>
+<p>Change into the cloned directory.</p>
+<p><code>$ cd find-duplicates </code></p>
+<p>Make the script executable.</p>
+<p><code>$ chmod x find_duplicates.sh</code></p>
+<p>Run the script and select the directories to search.</p>
+<p><code>$ ./find_duplicates.sh</code></p>
 
 The script will prompt you to select up to 5 directories to search for duplicate files. You can select the directories by entering the corresponding numbers separated by spaces. If you don't make a selection, the script will search all directories by default.
 
