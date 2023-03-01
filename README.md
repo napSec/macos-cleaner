@@ -16,7 +16,7 @@ Clone the repository to your local machine using Git
 
 <p><code>$ git clone https://github.com/napSec/macos-cleaner.git </code></p>
 <p>Change into the cloned directory.</p>
-<p><code>$ cd find-duplicates </code></p>
+<p><code>$ cd macos-cleaner </code></p>
 <p>Make the script executable.</p>
 <p><code>$ chmod x find_duplicates.sh</code></p>
 <p>Run the script and select the directories to search.</p>
